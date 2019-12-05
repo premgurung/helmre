@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  wordpress:
+  - apiVersion: v1
+    appVersion: 5.3.0
+    created: "2019-12-05T18:39:41.291902003Z"
+    description: Web publishing platform for building blogs and websites and using
+      helm.
+    digest: 50b6983ecfbfe687d1b4183e465005763de49c8aed68ac158fd0c1d52208a0a4
+    engine: gotpl
+    home: http://www.wordpress.com/
+    icon: https://bitnami.com/assets/stacks/wordpress/img/wordpress-stack-220x234.png
+    keywords:
+    - wordpress
+    - cms
+    - blog
+    - http
+    - web
+    - application
+    - php
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: wordpress
+    sources:
+    - https://github.com/bitnami/bitnami-docker-wordpress
+    urls:
+    - wordpress-8.0.1.tgz
+    version: 8.0.1
+generated: "2019-12-05T18:39:41.289451311Z"
